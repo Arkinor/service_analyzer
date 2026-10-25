@@ -1,0 +1,5 @@
+__pycache__/
+build/
+dist/
+service_analyzer.spec
+.venv/
